@@ -1,0 +1,60 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="delegateNames" priority="0" />
+      <Item value="Contains`1" priority="0" />
+      <Item value="Assert" priority="0" />
+      <Item value="Assert`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@NUnit.Framework.Assert">
+      <Item value="Fail`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="IndexOf`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="ShouldBe`1" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="B48D3591-50A7-460D-AA08-595FA309282A/f:Scenario.cs" caret="1888" fromTop="59" />
+      <File id="B48D3591-50A7-460D-AA08-595FA309282A/f:BDDScenarios.cs" caret="104" fromTop="4" />
+      <File id="1572A0E4-2E2F-4A12-904C-22E26A21D122/f:OrderOfExcecutionScenarios.cs" caret="850" fromTop="30" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="B48D3591-50A7-460D-AA08-595FA309282A/f:Scenario.cs" caret="2459" fromTop="44" />
+      <File id="B48D3591-50A7-460D-AA08-595FA309282A/f:Scenario.cs" caret="543" fromTop="19" />
+      <File id="B48D3591-50A7-460D-AA08-595FA309282A/f:Scenario.cs" caret="1121" fromTop="22" />
+      <File id="B48D3591-50A7-460D-AA08-595FA309282A/f:Scenario.cs" caret="1918" fromTop="59" />
+      <File id="B48D3591-50A7-460D-AA08-595FA309282A/f:BDDScenarios.cs" caret="95" fromTop="0" />
+      <File id="B48D3591-50A7-460D-AA08-595FA309282A/f:BDDScenarios.cs" caret="104" fromTop="27" />
+      <File id="B48D3591-50A7-460D-AA08-595FA309282A/f:BDDScenarios.cs" caret="104" fromTop="4" />
+      <File id="1572A0E4-2E2F-4A12-904C-22E26A21D122/f:OrderOfExcecutionScenarios.cs" caret="189" fromTop="20" />
+      <File id="1572A0E4-2E2F-4A12-904C-22E26A21D122/f:OrderOfExcecutionScenarios.cs" caret="175" fromTop="4" />
+      <File id="1572A0E4-2E2F-4A12-904C-22E26A21D122/f:OrderOfExcecutionScenarios.cs" caret="189" fromTop="31" />
+      <File id="1572A0E4-2E2F-4A12-904C-22E26A21D122/f:OrderOfExcecutionScenarios.cs" caret="189" fromTop="15" />
+      <File id="1572A0E4-2E2F-4A12-904C-22E26A21D122/f:OrderOfExcecutionScenarios.cs" caret="480" fromTop="16" />
+      <File id="1572A0E4-2E2F-4A12-904C-22E26A21D122/f:OrderOfExcecutionScenarios.cs" caret="77" fromTop="1" />
+      <File id="1572A0E4-2E2F-4A12-904C-22E26A21D122/f:OrderOfExcecutionScenarios.cs" caret="984" fromTop="32" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>
