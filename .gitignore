@@ -5,5 +5,5 @@ src/*/bin
 src/*/obj
 *resharper*
 _ReSharper*
-*.Resharper.user
+*.ReSharper.user
 build
